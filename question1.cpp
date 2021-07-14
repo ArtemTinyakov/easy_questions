@@ -8,5 +8,5 @@ int main()
     int x, y;
     x = (a, b);
     y = a, b;
-    printf("%i %i", x, y);  // What will print?
+    printf("%i %i", x, y);  // What will be printed?
 }
